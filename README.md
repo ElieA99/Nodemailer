@@ -1,0 +1,1 @@
+You need to turn ON less Secure Apps in Gmail setting to be able to send mails
